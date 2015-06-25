@@ -1,5 +1,6 @@
 # magento_open_edit_tabs
 Opening magento products in separate tabs to edit.
+
 Magento bulk edit. Kinda. 
 
 I had to make a quick hack for magento
