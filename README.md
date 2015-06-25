@@ -7,6 +7,8 @@ Usaeage:
 
 put snippet in your magento_root/app/design/adminhtml/default/default/temaplte/catalog/product.phtml
 
+```html
+
 <button id="openEditTabs" title="Open Edit Tabs" type="button" class="scalable add" onclick="openEditTabs()" style=""><span><span><span>Open Edit Tabs</span></span></span>
 </button>
 <script type="text/javascript">
@@ -19,3 +21,4 @@ put snippet in your magento_root/app/design/adminhtml/default/default/temaplte/c
   }
 </script>
 
+```
